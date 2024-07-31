@@ -11,7 +11,8 @@ npm init #cria o package json
 ### Git
 
 ```
-
-git remote add origin https://github.com/vitorthomaz2/apo-bke-express.git
+git config --global user.name "Seu Nome"
+git config --global user.email "seuemail@gmail.com"
+git remote add origin https://github.com/seugithub/seuprojeto.git
 ```
 
